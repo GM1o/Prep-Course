@@ -1,0 +1,9 @@
+ #divClass>h1 {color: rgb(200, 255, 0);}
+
+ #thirdDiv>ul>li>img{width: 400px;}
+
+ #thirdDiv>div {width: 500px;height: 600px;background-color: rgba(13, 95, 50, 0.973);
+    padding: 50px;border-color: rgba(94, 40, 40, 0.555);
+    border-width: 7px;border: solid 9px black }
+
+#SpanId>spam{margin: 50px;font-size: 18px;}
